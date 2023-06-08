@@ -1,0 +1,7 @@
+Offline/Manual
+If you originally installed Pi4J using the 'offline' method, then you will need to manually uninstall the Pi4J package by executing the following command on your Raspberry Pi:
+sudo dpkg -r pi4j
+
+
+
+https://pi4j.com/1.4/install.html
